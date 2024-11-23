@@ -1,5 +1,8 @@
 **Análisis de Base de Datos de Empleados con SQL**
 
+Link taller en Datalab:
+https://www.datacamp.com/datalab/w/f7743c00-d767-44eb-babc-de03d24a0700/edit
+
 Descripción General
 Este proyecto contiene una serie de consultas SQL para analizar una base de datos de empleados. La base de datos incluye información sobre empleados, departamentos, salarios y roles dentro de una empresa.
 Estructura de la Base de Datos
